@@ -1,9 +1,7 @@
-# Website created for Alexandros M Hotel using Bootstrap
+# Webpage for Alexandros M Hotel using Bootstrap
 
 
-
-
-
+![alt text](https://raw.githubusercontent.com/vagmark30/AlexandrosMWebSite/main/alexandros.gif)
 
 
 
